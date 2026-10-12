@@ -1,0 +1,12 @@
+setting,model,acc,f1,auc,auc_boot95,brier
+All 24 features,Logistic Regression,0.9925 ± 0.0106,0.9939 ± 0.0086,0.9999 ± 0.0003,"[0.9993, 1.0000]",0.0086
+All 24 features,Random Forest,0.9910 ± 0.0090,0.9928 ± 0.0072,0.9997 ± 0.0005,"[0.9990, 1.0000]",0.0094
+All 24 features,SVM (RBF),0.9980 ± 0.0046,0.9984 ± 0.0037,1.0000 ± 0.0000,"[1.0000, 1.0000]",0.0046
+All 24 features,XGBoost,0.9875 ± 0.0122,0.9900 ± 0.0098,0.9990 ± 0.0014,"[0.9978, 0.9999]",0.0108
+Single-feature baseline,LR on sc only,0.825,0.86,0.9208,"[0.8943, 0.9450]",0.141
+Single-feature baseline,LR on hemo only,0.905,0.9249,0.9653,"[0.9479, 0.9804]",0.0722
+Single-feature baseline,LR on sg only,0.7725,0.8401,0.8799,"[0.8467, 0.9100]",0.1222
+"Ablation (no sc,bu,hemo,pcv,rbcc,sg,al)",Logistic Regression,0.9300 ± 0.0274,0.9406 ± 0.0243,0.9713 ± 0.0179,"[0.9514, 0.9836]",0.0621
+"Ablation (no sc,bu,hemo,pcv,rbcc,sg,al)",Random Forest,0.9530 ± 0.0219,0.9615 ± 0.0182,0.9907 ± 0.0077,"[0.9810, 0.9965]",0.0391
+"Ablation (no sc,bu,hemo,pcv,rbcc,sg,al)",SVM (RBF),0.9515 ± 0.0207,0.9597 ± 0.0177,0.9789 ± 0.0160,"[0.9621, 0.9897]",0.0462
+"Ablation (no sc,bu,hemo,pcv,rbcc,sg,al)",XGBoost,0.9415 ± 0.0234,0.9522 ± 0.0195,0.9881 ± 0.0070,"[0.9802, 0.9953]",0.0408
