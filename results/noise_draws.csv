@@ -1,0 +1,421 @@
+exp,level,draw,model,auc
+label_observed,0.0,0,Logistic Regression,0.9931562593839395
+label_train_only,0.0,0,Logistic Regression,0.9931562593839395
+label_observed,0.0,0,Random Forest,0.9902964601500944
+label_train_only,0.0,0,Random Forest,0.9902964601500944
+label_observed,0.0,0,XGBoost,0.9929768755417611
+label_train_only,0.0,0,XGBoost,0.9929768755417611
+label_observed,0.0,1,Logistic Regression,0.9931823903499974
+label_train_only,0.0,1,Logistic Regression,0.9931823903499974
+label_observed,0.0,1,Random Forest,0.9904079076140144
+label_train_only,0.0,1,Random Forest,0.9904079076140144
+label_observed,0.0,1,XGBoost,0.9933527267068589
+label_train_only,0.0,1,XGBoost,0.9933527267068589
+label_observed,0.0,2,Logistic Regression,0.9936657585140825
+label_train_only,0.0,2,Logistic Regression,0.9936657585140825
+label_observed,0.0,2,Random Forest,0.9905364385586756
+label_train_only,0.0,2,Random Forest,0.9905364385586756
+label_observed,0.0,2,XGBoost,0.9936385893120045
+label_train_only,0.0,2,XGBoost,0.9936385893120045
+label_observed,0.0,3,Logistic Regression,0.9924295014643505
+label_train_only,0.0,3,Logistic Regression,0.9924295014643505
+label_observed,0.0,3,Random Forest,0.990658639181374
+label_train_only,0.0,3,Random Forest,0.990658639181374
+label_observed,0.0,3,XGBoost,0.9928080223792138
+label_train_only,0.0,3,XGBoost,0.9928080223792138
+label_observed,0.0,4,Logistic Regression,0.9933839005335852
+label_train_only,0.0,4,Logistic Regression,0.9933839005335852
+label_observed,0.0,4,Random Forest,0.9891192877263238
+label_train_only,0.0,4,Random Forest,0.9891192877263238
+label_observed,0.0,4,XGBoost,0.9929860713465095
+label_train_only,0.0,4,XGBoost,0.9929860713465095
+label_observed,0.0,5,Logistic Regression,0.9938441041202409
+label_train_only,0.0,5,Logistic Regression,0.9938441041202409
+label_observed,0.0,5,Random Forest,0.9900197325630449
+label_train_only,0.0,5,Random Forest,0.9900197325630449
+label_observed,0.0,5,XGBoost,0.9930434028854208
+label_train_only,0.0,5,XGBoost,0.9930434028854208
+label_observed,0.0,6,Logistic Regression,0.9932950985290846
+label_train_only,0.0,6,Logistic Regression,0.9932950985290846
+label_observed,0.0,6,Random Forest,0.9910091009775709
+label_train_only,0.0,6,Random Forest,0.9910091009775709
+label_observed,0.0,6,XGBoost,0.9927076247129349
+label_train_only,0.0,6,XGBoost,0.9927076247129349
+label_observed,0.0,7,Logistic Regression,0.9928172181839624
+label_train_only,0.0,7,Logistic Regression,0.9928172181839624
+label_observed,0.0,7,Random Forest,0.9896944984432539
+label_train_only,0.0,7,Random Forest,0.9896944984432539
+label_observed,0.0,7,XGBoost,0.9931666417441394
+label_train_only,0.0,7,XGBoost,0.9931666417441394
+label_observed,0.0,8,Logistic Regression,0.9930022649106618
+label_train_only,0.0,8,Logistic Regression,0.9930022649106618
+label_observed,0.0,8,Random Forest,0.9907260698146858
+label_train_only,0.0,8,Random Forest,0.9907260698146858
+label_observed,0.0,8,XGBoost,0.9928482704373842
+label_train_only,0.0,8,XGBoost,0.9928482704373842
+label_observed,0.0,9,Logistic Regression,0.9927610999466292
+label_train_only,0.0,9,Logistic Regression,0.9927610999466292
+label_observed,0.0,9,Random Forest,0.9905497873075039
+label_train_only,0.0,9,Random Forest,0.9905497873075039
+label_observed,0.0,9,XGBoost,0.9934955704766525
+label_train_only,0.0,9,XGBoost,0.9934955704766525
+label_observed,0.05,0,Logistic Regression,0.9357263853062582
+label_train_only,0.05,0,Logistic Regression,0.9918984692705237
+label_observed,0.05,0,Random Forest,0.9325449049764721
+label_train_only,0.05,0,Random Forest,0.988483805827981
+label_observed,0.05,0,XGBoost,0.9293899077325888
+label_train_only,0.05,0,XGBoost,0.9903078941193776
+label_observed,0.05,1,Logistic Regression,0.9340676545474047
+label_train_only,0.05,1,Logistic Regression,0.9921268520173265
+label_observed,0.05,1,Random Forest,0.9269080267589018
+label_train_only,0.05,1,Random Forest,0.9878585445973431
+label_observed,0.05,1,XGBoost,0.9312622556842557
+label_train_only,0.05,1,XGBoost,0.9868058243338697
+label_observed,0.05,2,Logistic Regression,0.9434132392383278
+label_train_only,0.05,2,Logistic Regression,0.993268374285301
+label_observed,0.05,2,Random Forest,0.9448645802823255
+label_train_only,0.05,2,Random Forest,0.9904404296886872
+label_observed,0.05,2,XGBoost,0.9453428277922317
+label_train_only,0.05,2,XGBoost,0.9912373487780058
+label_observed,0.05,3,Logistic Regression,0.9327162478459178
+label_train_only,0.05,3,Logistic Regression,0.9914777721448814
+label_observed,0.05,3,Random Forest,0.9285233296967735
+label_train_only,0.05,3,Random Forest,0.9898962444790523
+label_observed,0.05,3,XGBoost,0.9311457723805348
+label_train_only,0.05,3,XGBoost,0.9896032625411981
+label_observed,0.05,4,Logistic Regression,0.945746966388467
+label_train_only,0.05,4,Logistic Regression,0.9926359061891754
+label_observed,0.05,4,Random Forest,0.9394788697731619
+label_train_only,0.05,4,Random Forest,0.9880371734693009
+label_observed,0.05,4,XGBoost,0.9329120545117358
+label_train_only,0.05,4,XGBoost,0.9849748258158482
+label_observed,0.05,5,Logistic Regression,0.9341087610298194
+label_train_only,0.05,5,Logistic Regression,0.9921678416726543
+label_observed,0.05,5,Random Forest,0.9275682904714685
+label_train_only,0.05,5,Random Forest,0.989334854215372
+label_observed,0.05,5,XGBoost,0.9280571886758213
+label_train_only,0.05,5,XGBoost,0.9881553828404142
+label_observed,0.05,6,Logistic Regression,0.9115204706456058
+label_train_only,0.05,6,Logistic Regression,0.9926742260947373
+label_observed,0.05,6,Random Forest,0.9083331769804912
+label_train_only,0.05,6,Random Forest,0.9865157346249281
+label_observed,0.05,6,XGBoost,0.9044043369273753
+label_train_only,0.05,6,XGBoost,0.9848903250748589
+label_observed,0.05,7,Logistic Regression,0.9469430069925819
+label_train_only,0.05,7,Logistic Regression,0.9908108404484111
+label_observed,0.05,7,Random Forest,0.9559816124654
+label_train_only,0.05,7,Random Forest,0.9892018469416411
+label_observed,0.05,7,XGBoost,0.9535013261590448
+label_train_only,0.05,7,XGBoost,0.9897328791354679
+label_observed,0.05,8,Logistic Regression,0.936250195434118
+label_train_only,0.05,8,Logistic Regression,0.9928451557293243
+label_observed,0.05,8,Random Forest,0.9339534982457248
+label_train_only,0.05,8,Random Forest,0.9895968106459311
+label_observed,0.05,8,XGBoost,0.9333701822384983
+label_train_only,0.05,8,XGBoost,0.9901299934715135
+label_observed,0.05,9,Logistic Regression,0.9208426598702216
+label_train_only,0.05,9,Logistic Regression,0.9925197866631654
+label_observed,0.05,9,Random Forest,0.9239475019523959
+label_train_only,0.05,9,Random Forest,0.9881752843903524
+label_observed,0.05,9,XGBoost,0.9146091089809805
+label_train_only,0.05,9,XGBoost,0.984333161914974
+label_observed,0.1,0,Logistic Regression,0.868284920251455
+label_train_only,0.1,0,Logistic Regression,0.9896285035906676
+label_observed,0.1,0,Random Forest,0.8576436347324069
+label_train_only,0.1,0,Random Forest,0.9862266965250702
+label_observed,0.1,0,XGBoost,0.8601013487287613
+label_train_only,0.1,0,XGBoost,0.9831176963317686
+label_observed,0.1,1,Logistic Regression,0.8874273872930327
+label_train_only,0.1,1,Logistic Regression,0.991440638794771
+label_observed,0.1,1,Random Forest,0.8754547095760079
+label_train_only,0.1,1,Random Forest,0.9843857338590164
+label_observed,0.1,1,XGBoost,0.8726372359273187
+label_train_only,0.1,1,XGBoost,0.9806018194660744
+label_observed,0.1,2,Logistic Regression,0.8879653553220777
+label_train_only,0.1,2,Logistic Regression,0.9931099302290806
+label_observed,0.1,2,Random Forest,0.8843709075924172
+label_train_only,0.1,2,Random Forest,0.9908346250496931
+label_observed,0.1,2,XGBoost,0.8907071284251529
+label_train_only,0.1,2,XGBoost,0.9895555985114564
+label_observed,0.1,3,Logistic Regression,0.8641710500883596
+label_train_only,0.1,3,Logistic Regression,0.9902459646780921
+label_observed,0.1,3,Random Forest,0.8642264623548674
+label_train_only,0.1,3,Random Forest,0.9884399847303931
+label_observed,0.1,3,XGBoost,0.8634885566317738
+label_train_only,0.1,3,XGBoost,0.9844267101412804
+label_observed,0.1,4,Logistic Regression,0.9017581665492385
+label_train_only,0.1,4,Logistic Regression,0.9914829633249813
+label_observed,0.1,4,Random Forest,0.8997628738505778
+label_train_only,0.1,4,Random Forest,0.985619604424782
+label_observed,0.1,4,XGBoost,0.8932739264671825
+label_train_only,0.1,4,XGBoost,0.9810309707993079
+label_observed,0.1,5,Logistic Regression,0.8939292788693765
+label_train_only,0.1,5,Logistic Regression,0.991945688341971
+label_observed,0.1,5,Random Forest,0.8909035892723697
+label_train_only,0.1,5,Random Forest,0.9858418586613077
+label_observed,0.1,5,XGBoost,0.8818835083568741
+label_train_only,0.1,5,XGBoost,0.9839194358026088
+label_observed,0.1,6,Logistic Regression,0.8499992483961278
+label_train_only,0.1,6,Logistic Regression,0.9915774014678762
+label_observed,0.1,6,Random Forest,0.8429145819870744
+label_train_only,0.1,6,Random Forest,0.98498455411167
+label_observed,0.1,6,XGBoost,0.8335344807729748
+label_train_only,0.1,6,XGBoost,0.9791794774536229
+label_observed,0.1,7,Logistic Regression,0.8875364462559089
+label_train_only,0.1,7,Logistic Regression,0.9884061885674896
+label_observed,0.1,7,Random Forest,0.8898265436865618
+label_train_only,0.1,7,Random Forest,0.9838346992094088
+label_observed,0.1,7,XGBoost,0.8812658494204484
+label_train_only,0.1,7,XGBoost,0.9822833946670654
+label_observed,0.1,8,Logistic Regression,0.8884621458851774
+label_train_only,0.1,8,Logistic Regression,0.9914513445399604
+label_observed,0.1,8,Random Forest,0.8878625706813119
+label_train_only,0.1,8,Random Forest,0.9873655356702156
+label_observed,0.1,8,XGBoost,0.8824352624039895
+label_train_only,0.1,8,XGBoost,0.9867445149164367
+label_observed,0.1,9,Logistic Regression,0.8737769063477764
+label_train_only,0.1,9,Logistic Regression,0.9902492277055834
+label_observed,0.1,9,Random Forest,0.8736773239137958
+label_train_only,0.1,9,Random Forest,0.983958423145612
+label_observed,0.1,9,XGBoost,0.859259063242874
+label_train_only,0.1,9,XGBoost,0.9767564339632047
+label_observed,0.2,0,Logistic Regression,0.7571118026266663
+label_train_only,0.2,0,Logistic Regression,0.9828836507004446
+label_observed,0.2,0,Random Forest,0.7572764568617121
+label_train_only,0.2,0,Random Forest,0.9834125322625157
+label_observed,0.2,0,XGBoost,0.7436826749256455
+label_train_only,0.2,0,XGBoost,0.963100099811683
+label_observed,0.2,1,Logistic Regression,0.7642355014640879
+label_train_only,0.2,1,Logistic Regression,0.9877070715543997
+label_observed,0.2,1,Random Forest,0.7500199686512041
+label_train_only,0.2,1,Random Forest,0.9784205074712876
+label_observed,0.2,1,XGBoost,0.729064798651526
+label_train_only,0.2,1,XGBoost,0.9466111757475847
+label_observed,0.2,2,Logistic Regression,0.7887237923114754
+label_train_only,0.2,2,Logistic Regression,0.9886561311241033
+label_observed,0.2,2,Random Forest,0.7885756847888683
+label_train_only,0.2,2,Random Forest,0.9835342538863946
+label_observed,0.2,2,XGBoost,0.7861100068227456
+label_train_only,0.2,2,XGBoost,0.9703121540479656
+label_observed,0.2,3,Logistic Regression,0.7871520512605393
+label_train_only,0.2,3,Logistic Regression,0.9869831317040079
+label_observed,0.2,3,Random Forest,0.7853968329856881
+label_train_only,0.2,3,Random Forest,0.9839073343958841
+label_observed,0.2,3,XGBoost,0.7888689475228918
+label_train_only,0.2,3,XGBoost,0.9741679219110351
+label_observed,0.2,4,Logistic Regression,0.7740199249822572
+label_train_only,0.2,4,Logistic Regression,0.9864274517384375
+label_observed,0.2,4,Random Forest,0.7821822405557353
+label_train_only,0.2,4,Random Forest,0.9786642813984333
+label_observed,0.2,4,XGBoost,0.7578400030802547
+label_train_only,0.2,4,XGBoost,0.957637589979442
+label_observed,0.2,5,Logistic Regression,0.7835760676740972
+label_train_only,0.2,5,Logistic Regression,0.9866405575838035
+label_observed,0.2,5,Random Forest,0.7725469505452992
+label_train_only,0.2,5,Random Forest,0.9788269659315129
+label_observed,0.2,5,XGBoost,0.7508154290025961
+label_train_only,0.2,5,XGBoost,0.9612415138794163
+label_observed,0.2,6,Logistic Regression,0.7212483527246094
+label_train_only,0.2,6,Logistic Regression,0.9864056220358908
+label_observed,0.2,6,Random Forest,0.7252954690477837
+label_train_only,0.2,6,Random Forest,0.9764442920725696
+label_observed,0.2,6,XGBoost,0.7216979522432068
+label_train_only,0.2,6,XGBoost,0.9508389652166617
+label_observed,0.2,7,Logistic Regression,0.7832527183395201
+label_train_only,0.2,7,Logistic Regression,0.9867676527477389
+label_observed,0.2,7,Random Forest,0.7772663058042223
+label_train_only,0.2,7,Random Forest,0.9810355687016822
+label_observed,0.2,7,XGBoost,0.7809832207786771
+label_train_only,0.2,7,XGBoost,0.9619505415482846
+label_observed,0.2,8,Logistic Regression,0.7749028425122194
+label_train_only,0.2,8,Logistic Regression,0.9896029659023353
+label_observed,0.2,8,Random Forest,0.7758080331845749
+label_train_only,0.2,8,Random Forest,0.97784851236826
+label_observed,0.2,8,XGBoost,0.7618944553494492
+label_train_only,0.2,8,XGBoost,0.9667458084563959
+label_observed,0.2,9,Logistic Regression,0.7688639245880654
+label_train_only,0.2,9,Logistic Regression,0.9841849518995222
+label_observed,0.2,9,Random Forest,0.7621855691642165
+label_train_only,0.2,9,Random Forest,0.9748499821895109
+label_observed,0.2,9,XGBoost,0.7574276007402428
+label_train_only,0.2,9,XGBoost,0.9547885779449006
+label_observed,0.3,0,Logistic Regression,0.6409750468103359
+label_train_only,0.3,0,Logistic Regression,0.9722286647968692
+label_observed,0.3,0,Random Forest,0.6461711984179279
+label_train_only,0.3,0,Random Forest,0.9484263515000322
+label_observed,0.3,0,XGBoost,0.6360319076215228
+label_train_only,0.3,0,XGBoost,0.8832833910198662
+label_observed,0.3,1,Logistic Regression,0.6665907146147749
+label_train_only,0.3,1,Logistic Regression,0.977320419816935
+label_observed,0.3,1,Random Forest,0.6441402337981204
+label_train_only,0.3,1,Random Forest,0.9476514371788184
+label_observed,0.3,1,XGBoost,0.5951660637330625
+label_train_only,0.3,1,XGBoost,0.8799626453864755
+label_observed,0.3,2,Logistic Regression,0.6633964275536928
+label_train_only,0.3,2,Logistic Regression,0.9808530968975708
+label_observed,0.3,2,Random Forest,0.663252975177975
+label_train_only,0.3,2,Random Forest,0.9624890699520636
+label_observed,0.3,2,XGBoost,0.6450395750387651
+label_train_only,0.3,2,XGBoost,0.9129770749219803
+label_observed,0.3,3,Logistic Regression,0.6950635323476221
+label_train_only,0.3,3,Logistic Regression,0.97877571548929
+label_observed,0.3,3,Random Forest,0.6668557358540877
+label_train_only,0.3,3,Random Forest,0.9600213361149305
+label_observed,0.3,3,XGBoost,0.6896687464679719
+label_train_only,0.3,3,XGBoost,0.9177767111746535
+label_observed,0.3,4,Logistic Regression,0.6762176024649025
+label_train_only,0.3,4,Logistic Regression,0.9680417434098152
+label_observed,0.3,4,Random Forest,0.6859865090271533
+label_train_only,0.3,4,Random Forest,0.9398204787799876
+label_observed,0.3,4,XGBoost,0.6704005281113019
+label_train_only,0.3,4,XGBoost,0.885480113646725
+label_observed,0.3,5,Logistic Regression,0.6746361674074585
+label_train_only,0.3,5,Logistic Regression,0.9729538179488394
+label_observed,0.3,5,Random Forest,0.6684884187083558
+label_train_only,0.3,5,Random Forest,0.9477686216869754
+label_observed,0.3,5,XGBoost,0.6423311197078988
+label_train_only,0.3,5,XGBoost,0.8812948237734165
+label_observed,0.3,6,Logistic Regression,0.6186959195852761
+label_train_only,0.3,6,Logistic Regression,0.9672616585759635
+label_observed,0.3,6,Random Forest,0.6168939813158346
+label_train_only,0.3,6,Random Forest,0.9305544703111911
+label_observed,0.3,6,XGBoost,0.5858849090544493
+label_train_only,0.3,6,XGBoost,0.8539741194749493
+label_observed,0.3,7,Logistic Regression,0.6879113218760523
+label_train_only,0.3,7,Logistic Regression,0.9787221186822913
+label_observed,0.3,7,Random Forest,0.6708250086956445
+label_train_only,0.3,7,Random Forest,0.9529027219047134
+label_observed,0.3,7,XGBoost,0.6715689288372617
+label_train_only,0.3,7,XGBoost,0.9044273812259208
+label_observed,0.3,8,Logistic Regression,0.6941517201412845
+label_train_only,0.3,8,Logistic Regression,0.9774419055886033
+label_observed,0.3,8,Random Forest,0.6687337819515158
+label_train_only,0.3,8,Random Forest,0.9493485518795841
+label_observed,0.3,8,XGBoost,0.6335085110790034
+label_train_only,0.3,8,XGBoost,0.908900636922542
+label_observed,0.3,9,Logistic Regression,0.6637005743853973
+label_train_only,0.3,9,Logistic Regression,0.9744768007741789
+label_observed,0.3,9,Random Forest,0.6595142627047756
+label_train_only,0.3,9,Random Forest,0.9380415537554601
+label_observed,0.3,9,XGBoost,0.6477573269559751
+label_train_only,0.3,9,XGBoost,0.8868921146339002
+measurement,0.0,0,Logistic Regression,0.9931562593839395
+measurement,0.0,0,Random Forest,0.9902964601500944
+measurement,0.0,0,XGBoost,0.9929768755417611
+measurement,0.0,1,Logistic Regression,0.9931823903499974
+measurement,0.0,1,Random Forest,0.9904079076140144
+measurement,0.0,1,XGBoost,0.9933527267068589
+measurement,0.0,2,Logistic Regression,0.9936657585140825
+measurement,0.0,2,Random Forest,0.9905364385586756
+measurement,0.0,2,XGBoost,0.9936385893120045
+measurement,0.0,3,Logistic Regression,0.9924295014643505
+measurement,0.0,3,Random Forest,0.990658639181374
+measurement,0.0,3,XGBoost,0.9928080223792138
+measurement,0.0,4,Logistic Regression,0.9933839005335852
+measurement,0.0,4,Random Forest,0.9891192877263238
+measurement,0.0,4,XGBoost,0.9929860713465095
+measurement,0.0,5,Logistic Regression,0.9938441041202409
+measurement,0.0,5,Random Forest,0.9900197325630449
+measurement,0.0,5,XGBoost,0.9930434028854208
+measurement,0.0,6,Logistic Regression,0.9932950985290846
+measurement,0.0,6,Random Forest,0.9910091009775709
+measurement,0.0,6,XGBoost,0.9927076247129349
+measurement,0.0,7,Logistic Regression,0.9928172181839624
+measurement,0.0,7,Random Forest,0.9896944984432539
+measurement,0.0,7,XGBoost,0.9931666417441394
+measurement,0.0,8,Logistic Regression,0.9930022649106618
+measurement,0.0,8,Random Forest,0.9907260698146858
+measurement,0.0,8,XGBoost,0.9928482704373842
+measurement,0.0,9,Logistic Regression,0.9927610999466292
+measurement,0.0,9,Random Forest,0.9905497873075039
+measurement,0.0,9,XGBoost,0.9934955704766525
+measurement,0.25,0,Logistic Regression,0.9917881342023392
+measurement,0.25,0,Random Forest,0.9886714213986035
+measurement,0.25,0,XGBoost,0.9901610189788087
+measurement,0.25,1,Logistic Regression,0.991040733135655
+measurement,0.25,1,Random Forest,0.9865174402983895
+measurement,0.25,1,XGBoost,0.9887275530090001
+measurement,0.25,2,Logistic Regression,0.9911467669403281
+measurement,0.25,2,Random Forest,0.9877185188967467
+measurement,0.25,2,XGBoost,0.9905218898813324
+measurement,0.25,3,Logistic Regression,0.9895618279275764
+measurement,0.25,3,Random Forest,0.9849494972335993
+measurement,0.25,3,XGBoost,0.9878450207829562
+measurement,0.25,4,Logistic Regression,0.990012957282788
+measurement,0.25,4,Random Forest,0.984857803000186
+measurement,0.25,4,XGBoost,0.988087965580166
+measurement,0.25,5,Logistic Regression,0.9893616526188713
+measurement,0.25,5,Random Forest,0.9831927654157988
+measurement,0.25,5,XGBoost,0.9859642817631533
+measurement,0.25,6,Logistic Regression,0.9919262317503273
+measurement,0.25,6,Random Forest,0.9878750955870107
+measurement,0.25,6,XGBoost,0.9901656168811828
+measurement,0.25,7,Logistic Regression,0.9897783183737383
+measurement,0.25,7,Random Forest,0.9853716775535559
+measurement,0.25,7,XGBoost,0.9869915859115992
+measurement,0.25,8,Logistic Regression,0.9901746911126267
+measurement,0.25,8,Random Forest,0.9865727695249766
+measurement,0.25,8,XGBoost,0.9881184245558623
+measurement,0.25,9,Logistic Regression,0.9912190787418135
+measurement,0.25,9,Random Forest,0.9886128291445251
+measurement,0.25,9,XGBoost,0.9901665067977714
+measurement,0.5,0,Logistic Regression,0.9852822214846775
+measurement,0.5,0,Random Forest,0.9801163614568859
+measurement,0.5,0,XGBoost,0.9825772932676351
+measurement,0.5,1,Logistic Regression,0.9836246740315776
+measurement,0.5,1,Random Forest,0.980735838229698
+measurement,0.5,1,XGBoost,0.9808916866958686
+measurement,0.5,2,Logistic Regression,0.9842097747368242
+measurement,0.5,2,Random Forest,0.9824300132879621
+measurement,0.5,2,XGBoost,0.9844919293561842
+measurement,0.5,3,Logistic Regression,0.9812862528554529
+measurement,0.5,3,Random Forest,0.9742317053452135
+measurement,0.5,3,XGBoost,0.977712761185048
+measurement,0.5,4,Logistic Regression,0.9817651446904684
+measurement,0.5,4,Random Forest,0.9760396742321733
+measurement,0.5,4,XGBoost,0.9795802730293272
+measurement,0.5,5,Logistic Regression,0.9815063297140961
+measurement,0.5,5,Random Forest,0.9749555710358898
+measurement,0.5,5,XGBoost,0.976283596478751
+measurement,0.5,6,Logistic Regression,0.985702621971457
+measurement,0.5,6,Random Forest,0.9788626635008978
+measurement,0.5,6,XGBoost,0.9831751494439847
+measurement,0.5,7,Logistic Regression,0.9819093233351447
+measurement,0.5,7,Random Forest,0.9759579174006655
+measurement,0.5,7,XGBoost,0.9785819179161364
+measurement,0.5,8,Logistic Regression,0.9815800031365913
+measurement,0.5,8,Random Forest,0.9766341591807904
+measurement,0.5,8,XGBoost,0.9786714882639211
+measurement,0.5,9,Logistic Regression,0.9850463960201763
+measurement,0.5,9,Random Forest,0.979703525261109
+measurement,0.5,9,XGBoost,0.9810829360925611
+measurement,1.0,0,Logistic Regression,0.9637659665260065
+measurement,1.0,0,Random Forest,0.9540964051989608
+measurement,1.0,0,XGBoost,0.9611684069885198
+measurement,1.0,1,Logistic Regression,0.9592517479201847
+measurement,1.0,1,Random Forest,0.9515075758404665
+measurement,1.0,1,XGBoost,0.9560373205729993
+measurement,1.0,2,Logistic Regression,0.9625362890235112
+measurement,1.0,2,Random Forest,0.9559062341574787
+measurement,1.0,2,XGBoost,0.9637051288129947
+measurement,1.0,3,Logistic Regression,0.9579791258636264
+measurement,1.0,3,Random Forest,0.9479398953740141
+measurement,1.0,3,XGBoost,0.9503633364091378
+measurement,1.0,4,Logistic Regression,0.955255307586539
+measurement,1.0,4,Random Forest,0.9446601612791456
+measurement,1.0,4,XGBoost,0.9481882003382169
+measurement,1.0,5,Logistic Regression,0.959911978496114
+measurement,1.0,5,Random Forest,0.9430453492740251
+measurement,1.0,5,XGBoost,0.9461432595504947
+measurement,1.0,6,Logistic Regression,0.9614992906197685
+measurement,1.0,6,Random Forest,0.9507179985630035
+measurement,1.0,6,XGBoost,0.9487740693867478
+measurement,1.0,7,Logistic Regression,0.959309322605705
+measurement,1.0,7,Random Forest,0.9479575927999425
+measurement,1.0,7,XGBoost,0.9528040299118958
+measurement,1.0,8,Logistic Regression,0.9596415946040906
+measurement,1.0,8,Random Forest,0.9559261357074169
+measurement,1.0,8,XGBoost,0.9593496241561292
+measurement,1.0,9,Logistic Regression,0.9651523617437988
+measurement,1.0,9,Random Forest,0.9564289069708918
+measurement,1.0,9,XGBoost,0.9595359522654577
